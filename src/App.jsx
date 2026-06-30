@@ -19,13 +19,9 @@ const questionChips = [
 const noMessages = [
   "Nice try 😄",
   "Escape is not allowed.",
-  "System error: Option unavailable.",
   "No refunds available.",
   "Lifetime subscription already activated.",
-  "Roka agreement detected 😄",
-  "404: No escape found.",
   "You really thought you had a choice? 😜",
-  "Sorry, this button is under maintenance.",
   "You are already too invested 😄",
 ];
 
@@ -401,8 +397,8 @@ function BigQuestion({ onYes }) {
           Would you accept this for the next 50+ years, Riuuuu? ❤️
         </h2>
         <p className="mx-auto mt-5 max-w-3xl text-balance text-base font-medium leading-7 text-[#684458] sm:text-lg sm:leading-8">
-          Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one
-          promise that I will support you while you support me too.
+            Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one promise that I will support you while you support me too... ❤️ <br><br>
+  One more important condition: by clicking YES, you also agree to watch Taarak Mehta time to time... "Soch looo"..... 😄📺
         </p>
 
         <div className="mx-auto mt-7 flex max-w-3xl flex-wrap justify-center gap-2.5">
