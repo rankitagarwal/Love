@@ -1,0 +1,23 @@
+<svg width="960" height="620" viewBox="0 0 960 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="620" rx="48" fill="#FFF1B8"/>
+  <circle cx="140" cy="110" r="74" fill="#FFB7CF" opacity=".72"/>
+  <circle cx="808" cy="126" r="94" fill="#B7F4DF" opacity=".8"/>
+  <circle cx="760" cy="512" r="120" fill="#D7C7FF" opacity=".55"/>
+  <path d="M412 102L348 28L334 164" fill="#F5C424"/>
+  <path d="M548 102L612 28L626 164" fill="#F5C424"/>
+  <path d="M386 72L348 28L339 110" fill="#3C2431"/>
+  <path d="M574 72L612 28L621 110" fill="#3C2431"/>
+  <ellipse cx="480" cy="338" rx="210" ry="212" fill="#FFD335"/>
+  <ellipse cx="390" cy="312" rx="27" ry="36" fill="#2E1B27"/>
+  <ellipse cx="570" cy="312" rx="27" ry="36" fill="#2E1B27"/>
+  <circle cx="401" cy="299" r="8" fill="#fff"/>
+  <circle cx="581" cy="299" r="8" fill="#fff"/>
+  <circle cx="326" cy="386" r="43" fill="#FF6D8D" opacity=".9"/>
+  <circle cx="634" cy="386" r="43" fill="#FF6D8D" opacity=".9"/>
+  <path d="M448 358C458 370 501 370 512 358" stroke="#3C2431" stroke-width="10" stroke-linecap="round"/>
+  <path d="M444 410C464 438 500 438 520 410" stroke="#3C2431" stroke-width="10" stroke-linecap="round"/>
+  <path d="M230 212C183 210 146 240 138 279C130 321 157 360 201 371" stroke="#F5C424" stroke-width="50" stroke-linecap="round"/>
+  <path d="M730 212C777 210 814 240 822 279C830 321 803 360 759 371" stroke="#F5C424" stroke-width="50" stroke-linecap="round"/>
+  <path d="M235 502C322 558 632 558 724 502" stroke="#B98A1F" stroke-width="16" stroke-linecap="round" opacity=".28"/>
+  <text x="480" y="552" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#7C1647">PLACE CUSTOM IMAGE HERE</text>
+</svg>
