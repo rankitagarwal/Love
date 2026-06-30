@@ -397,9 +397,11 @@ function BigQuestion({ onYes }) {
           Would you accept this for the next 50+ years, Riuuuu? ❤️
         </h2>
         <p className="mx-auto mt-5 max-w-3xl text-balance text-base font-medium leading-7 text-[#684458] sm:text-lg sm:leading-8">
-            Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one promise that I will support you while you support me too... ❤️ <br><br>
+  Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one promise that I will support you while you support me too... ❤️
+  <br />
+  <br />
   One more important condition: by clicking YES, you also agree to watch Taarak Mehta time to time... "Soch looo"..... 😄📺
-        </p>
+</p>
 
         <div className="mx-auto mt-7 flex max-w-3xl flex-wrap justify-center gap-2.5">
           {questionChips.map((chip, index) => (
