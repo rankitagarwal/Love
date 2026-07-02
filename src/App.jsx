@@ -397,11 +397,31 @@ function BigQuestion({ onYes }) {
           Would you accept this for the next 50+ years, Riuuuu? ❤️
         </h2>
         <p className="mx-auto mt-5 max-w-3xl text-balance text-base font-medium leading-7 text-[#684458] sm:text-lg sm:leading-8">
-  Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one promise that I will support you while you support me too... ❤️
-  <br />
-  <br />
-  One more important condition: by clicking YES, you also agree to watch Taarak Mehta time to time... "Soch looo"..... 😄📺
+  Me, my jokes, my overthinking, my laughter, my emotional moments, my endless affection, and one
+  promise that I will support you while you support me too.
 </p>
+
+<motion.p
+  className="mx-auto mt-5 max-w-3xl rounded-3xl border border-white/80 bg-white/58 px-5 py-4 text-balance text-sm font-semibold leading-7 text-[#6b2141] shadow-sm sm:text-base"
+  initial={{ opacity: 0, y: 14 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true }}
+  transition={{ delay: 0.12, duration: 0.4 }}
+>
+  Can we forgive and forget each other's past, choose each other with a full heart, and start this beautiful
+  journey together?
+</motion.p>
+
+<motion.p
+  className="mx-auto mt-3 max-w-3xl rounded-3xl border border-amber-100/90 bg-amber-50/70 px-5 py-4 text-balance text-sm font-semibold leading-7 text-[#6b3a1f] shadow-sm sm:text-base"
+  initial={{ opacity: 0, y: 14 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true }}
+  transition={{ delay: 0.18, duration: 0.4 }}
+>
+  One more important condition: by clicking YES, you also agree to watch Taarak Mehta from time to
+  time... "Soch looo"..... 😄📺
+</motion.p>
 
         <div className="mx-auto mt-7 flex max-w-3xl flex-wrap justify-center gap-2.5">
           {questionChips.map((chip, index) => (
